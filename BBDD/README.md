@@ -1,6 +1,6 @@
 # BASES DE DATOS
 <p>
-En este curso se coge la base del funcionamiento de las bases de datos relacionales (SQL) y se comentan sus distintas funcionalidades. Sirve para varias asignaturas del año siguiente, específicamente para <a href="">Acceso a Datos</a>.
+En este curso se coge la base del funcionamiento de las bases de datos relacionales (SQL) y se comentan sus distintas funcionalidades. Sirve para varias asignaturas del año siguiente, específicamente para <a href="https://github.com/ErikAT04/DAM-2/tree/main/AAD">Acceso a Datos</a>.
 </p>
 <b>Contenido del curso:</b>
 <ul>
