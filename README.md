@@ -3,32 +3,29 @@
 <p>
 Este primer año trata de afianzar ciertos conceptos de la informática, como son la lógica de la programación y la creación y acceso a bases de datos, conocimientos de lenguajes de marcas y la cultura general de la informática.
 </p>
-<p>
-En mi primer año, tuvimos una serie de inconvenientes con profesores ausentes, asignaturas que solo dimos durante un mes y así, por lo que algunas como Lenguaje de Marcas pueden estar muy justas de contenido
-</p>
 
 ## Módulos Cursados:
 <table>
   <tr>
     <td>
-      PROGRAMACIÓN
+      <a href="https://github.com/ErikAT04/DAM-1/tree/main/PROG">PROGRAMACIÓN</a>
     </td>
     <td>
-      BASES DE DATOS
+      <a href="https://github.com/ErikAT04/DAM-1/tree/main/BBDD">BASES DE DATOS</a>
     </td>
     <td>
-      SISTEMAS INFORMÁTICOS
+      <a href="https://github.com/ErikAT04/DAM-1/tree/main/SINF">SISTEMAS INFORMÁTICOS</a>
     </td>
   </tr>
   <tr>
     <td>
-      LENGUAJE DE MARCAS
+      <a href="https://github.com/ErikAT04/DAM-1/tree/main/LMAR">LENGUAJE DE MARCAS</a>
     </td>
     <td>
-      ENTORNOS DE DESARROLLO
+      <a href="https://github.com/ErikAT04/DAM-1/tree/main/ENTD">ENTORNOS DE DESARROLLO</a>
     </td>
     <td>
-      FORMACIÓN Y ORIENTACIÓN LABORAL
+      <a href="https://github.com/ErikAT04/DAM-1/tree/main/FOL">FORMACIÓN Y ORIENTACIÓN LABORAL</a>
     </td>
   </tr>
 </table>
